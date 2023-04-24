@@ -11,10 +11,10 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Testing](#testing)
-* [Credit](#credit)
 * [Contributions](#contributions)
-* [License](#license)
+* [Testing](#testing)
+* [Questions](#questions)
+* [Credits](#credits)
 
 ## Installation
 1. Download [Node.js](https://node.js.org/en/download/), [git](https://git-scm.com/downloads), and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
