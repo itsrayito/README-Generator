@@ -17,9 +17,10 @@
 * [Credits](#credits)
 
 ## Installation
-1. Download [Node.js](https://node.js.org/en/download/), [git](https://git-scm.com/downloads), and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
-2. The user has to clone the repository by typing `git clone https://github.com/itsrayito/README-Generator.git` in the chosen directory the user has chosen into the Command Line Interface.
-3. At last, the user has to download npm dependencies by typing `npm install` in the Command Line Interface. This application will use the inquirer npm package version `inquirer 8.2.4`
+1. First and foremost, the user should have the following three downloaded and installed before starting with this application;<br> [Node.js](https://node.js.org/en/download/), [git](https://git-scm.com/downloads), and [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).<br><br>
+2. Once all three have been downloaded and installed, the user then has to clone the repository by typing `git clone https://github.com/itsrayito/README-Generator.git` into the chosen directory the user has chosen in the Command Line Interface (CLI).<br><br>
+3. This application will be using dependencies, so the user has to download npm dependencies by typing `npm install` into the Command Line Interface. This application will use the inquirer npm package version `inquirer 8.2.4`.<br><br>
+4. Once all of the above steps have been completed, the user can start using the application.
 
 ## Usage
 To use this application, the user has to go to the root folder inside the repository they cloned and type `node index` in to the Command Line Interface. This will then prompt the application by asking a series of questions to the user as shown below.<br><br>
