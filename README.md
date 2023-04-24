@@ -32,9 +32,8 @@ MIT License
 ## Contributions
 At this time, there is no need for contributions.
 
-**Screenshot**:
-
-A sample 'README.md' file from this application is included in the root directory of this repository.
+**Screenshot of the application**:
+![Alt text](Assets/screenshot.png)
 
 
 ## Testing
