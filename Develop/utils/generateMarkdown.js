@@ -33,7 +33,7 @@ function renderScreenshot(answers, licenseSection, licenseBadge, licenseLink) {
     const {screenshot} = answers;
 
     if (screenshot === 'YES') {
-        const screenshotLink = `![screenshot of application]()`
+        const screenshotLink = `![screenshot of application](./assets/screenshot.png)`
         return generateMarkdown(answers, licenseSection, licenseBadge, licenseLink, screenshotLink);
     } else {
         const screenshotLink = '';
@@ -41,7 +41,7 @@ function renderScreenshot(answers, licenseSection, licenseBadge, licenseLink) {
     }
 }
 
-// this is going to generate the markdown for the README and creates it
+// this is going to generate the markdown for the README 
 function generateMarkdown(answers, licenseSection, licenseBadge, licenseLink, screenshotLink) {
     const { title, userName, email, description, dependencies, tests, needToKnow, installation, openSource, credits } = answers;
     return markdown =
