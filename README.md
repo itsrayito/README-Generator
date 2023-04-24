@@ -34,7 +34,7 @@ MIT License
 At this time, there is no need for contributions.
 
 ## Testing
-This application can be tested out using the Command Line Interface.
+This application can be tested out by using the Command Line Interface (CLI).
 
 ## Questions
 You can [email](rayito.aguirre94@gmail.com) me if there is any questions or comments that arise from this application.<br>
